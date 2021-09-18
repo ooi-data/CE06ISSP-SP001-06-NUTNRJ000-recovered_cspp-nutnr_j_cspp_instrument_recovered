@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE06ISSP-SP001-06-NUTNRJ000-recovered_cspp-nutnr_j_cspp_instrument_recovered
 data_stream: CE06ISSP-SP001-06-NUTNRJ000-recovered_cspp-nutnr_j_cspp_instrument_recovered
-end_date: '2020-09-18T20:04:55.508Z'
-last_updated: '2021-05-05T10:17:20.970940'
-start_date: '2015-04-10T18:10:00.000Z'
-status: success
+end_date: '2021-05-27T20:05:51.911Z'
+last_updated: '2021-09-18T02:22:36.633781Z'
+start_date: '2015-04-10T18:28:25.510Z'
+status: pending
